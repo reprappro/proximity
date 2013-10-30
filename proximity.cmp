@@ -1,0 +1,38 @@
+Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = Tue 22 Oct 2013 23:54:09 BST
+
+BeginCmp
+TimeStamp = /5266F36C;
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = C_ELEC_4x5.8;
+EndCmp
+
+BeginCmp
+TimeStamp = /520A9AE3;
+Reference = JP1;
+ValeurCmp = M03LONGPADS;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /50F706E5;
+Reference = R1;
+ValeurCmp = 15k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /50F70715;
+Reference = R2;
+ValeurCmp = 160;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /520A9E11;
+Reference = U1;
+ValeurCmp = TCRT1000;
+IdModule  = TCRT1000;
+EndCmp
+
+EndListe
