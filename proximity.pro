@@ -1,6 +1,6 @@
-update=Wed 30 Oct 2013 20:14:04 GMT
+update=Tue 07 Jan 2014 21:33:38 GMT
 version=1
-last_client=kicad
+last_client=pcbnew
 [cvpcb]
 version=1
 NetIExt=net
@@ -71,11 +71,13 @@ LibName30=valves
 LibName31=/home/jeanmarc/Documents/Electronics/kicadlibs/SparkFun
 LibName32=/home/jeanmarc/Documents/Electronics/kicadlibs/emaker
 LibName33=proximity
+[general]
+version=1
 [pcbnew]
 version=1
-PadDrlX=0
-PadDimH=984
-PadDimV=630
+PadDrlX=400
+PadDimH=787
+PadDimV=787
 BoardThickness=630
 TxtPcbV=800
 TxtPcbH=600
@@ -89,7 +91,7 @@ TxtLar=120
 MSegLar=50
 LastNetListRead=proximity.net
 [pcbnew/libraries]
-LibDir=../kicadlibs
+LibDir=../kicadlibs;/home/jeanmarc/Documents/Electronics/kicadlibs
 LibName1=sockets
 LibName2=connect
 LibName3=discret
@@ -102,5 +104,3 @@ LibName9=dip_sockets
 LibName10=pga_sockets
 LibName11=valves
 LibName12=proximity
-[general]
-version=1
