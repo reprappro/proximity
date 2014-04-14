@@ -1,0 +1,6 @@
+Id	Designator	Package	Quantity	Designation	Supplier and ref	
+1	R1	SM0603	1	15k	933-0615	Farnell
+2	R2	SM0603	1	165	117-0708	Farnell
+3	U1	TCRT1000	1	TCRT1000	147-0064	Farnell
+4	JP1	HEADER_3X1	1	HDR1	THS-03-R-RAF 	http://www.toby.co.uk/content/catalogue/products.aspx?series=THS-xx-R-RAF
+5	C1	SM1206	1	10uF	235-3045	Farnell
