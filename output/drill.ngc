@@ -15,10 +15,10 @@ M6      ( Tool change.                 )
 M0      ( Temporary machine stop.      )
 M3      ( Spindle on clockwise.        )
 
-G81 R1.00000 Z0.00100 F1.00000 X0.56089 Y0.09201
-X0.51089 Y0.09201
-X0.41089 Y0.09201
-X0.36089 Y0.09201
+G81 R1.00000 Z0.00100 F1.00000 X0.07091 Y0.09201
+X0.12091 Y0.09201
+X0.22091 Y0.09201
+X0.27091 Y0.09201
 
 
 G00 Z1.00000 ( Retract )
@@ -29,8 +29,8 @@ M6      ( Tool change.                 )
 M0      ( Temporary machine stop.      )
 M3      ( Spindle on clockwise.        )
 
-G81 R1.00000 Z0.00100 F1.00000 X0.41519 Y0.46461
-X0.35219 Y0.46461
+G81 R1.00000 Z0.00100 F1.00000 X0.21661 Y0.46461
+X0.27370 Y0.46850
 
 
 G00 Z1.00000 ( Retract )
@@ -41,10 +41,10 @@ M6      ( Tool change.                 )
 M0      ( Temporary machine stop.      )
 M3      ( Spindle on clockwise.        )
 
-G81 R1.00000 Z0.00100 F1.00000 X0.42089 Y0.91201
-X0.32089 Y0.91201
-X0.22089 Y0.91201
-X0.12089 Y0.91201
+G81 R1.00000 Z0.00100 F1.00000 X0.21091 Y0.91201
+X0.31091 Y0.91201
+X0.41091 Y0.91201
+X0.51091 Y0.91201
 
 
 G00 Z1.00000 ( Retract )
@@ -55,8 +55,8 @@ M6      ( Tool change.                 )
 M0      ( Temporary machine stop.      )
 M3      ( Spindle on clockwise.        )
 
-G81 R1.00000 Z0.00100 F1.00000 X0.15928 Y0.68902
-X0.15928 Y0.29531
+G81 R1.00000 Z0.00100 F1.00000 X0.47252 Y0.68902
+X0.47252 Y0.29531
 
 
 G00 Z1.00000 ( All done -- retract )

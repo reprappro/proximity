@@ -35,3 +35,5 @@ zdrill=0.001
 zchange=1.0
 drill-feed=1
 drill-speed=300
+mirror-absolute=1
+drill-front=1
